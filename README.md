@@ -1,0 +1,2 @@
+# mycv
+Ini adalah CV
